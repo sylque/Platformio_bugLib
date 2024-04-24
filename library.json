@@ -1,0 +1,7 @@
+{
+  "name": "Platformio_bugLib",
+  "version": "1.0.0",
+  "dependencies": {
+    "SparkFun_BMI270": "https://github.com/sylque/SparkFun_BMI270_Arduino_Library.git"
+  }
+}
